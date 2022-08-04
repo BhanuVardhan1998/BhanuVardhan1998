@@ -6,3 +6,5 @@ print(type(data))
 print(type(data2))
 print(type(data3))
 print(dir(data))
+data2=1,2,3,4
+print(type(data))
